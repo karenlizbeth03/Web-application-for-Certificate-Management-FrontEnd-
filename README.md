@@ -280,13 +280,13 @@ Una vez mandando esos comandos en la terminal y ejecutando XAMPP ya que se encue
 
 Para cualquier duda o inquietud no dude en comunicarse con nosotros
 
-|Integrantes|N° telefónico |
-| :- | :- |
-|Jose Ojeda|+593 99 859 5903|
-|Karen Moyolema|+593 99 744 7925|
-|Eduardo Pila|+593 98 715 2717|
-|Anthony Solis|+593 98 715 3094|
-|Eduardo Villafuerte |+593 99 521 3946|
+|Integrantes |
+| :- |
+|Jose Ojeda|
+|Karen Moyolema|
+|Eduardo Pila|
+|Anthony Solis|
+|Eduardo Villafuerte|
 
 13. ## **Historial de Cambios:**
 
